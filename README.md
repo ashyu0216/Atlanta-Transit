@@ -116,8 +116,3 @@ Output files will be saved as `google_places_reviews.json` and `reviews_summary.
 - Integrate **population and income metrics** to locate the most underserved communities
 
 ---
-
-## Team
-
-Ashley Yu, Joseph LaMonica, Ethan Rao, Caroline Zu
-Emory University | AI.Data Lab 2025 — Invest Atlanta
